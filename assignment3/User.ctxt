@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=roll\ name\ id
+comment0.target=User(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=roll\ name\ id\ department
+comment1.target=User(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getRoll()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getId()
+comment5.params=
+comment5.target=java.lang.String[]\ getDepartment()
+comment6.params=roll
+comment6.target=void\ setRoll(java.lang.String)
+comment7.params=name
+comment7.target=void\ setName(java.lang.String)
+comment8.params=id
+comment8.target=void\ setId(java.lang.String)
+comment9.params=department
+comment9.target=void\ setDepartment(java.lang.String)
+numComments=10
