@@ -1,7 +1,5 @@
 
-# HKBU-COMP2007-Object-Oriented-Programming-Java
-
-This is a repository for all my programs in HKBU COMP 2007 Object-Oriented Programming JAVA.
+# Introduction-of-Object-Oriented-Programming-Java
 
 
 Course website is http://cslinux0.comp.hkbu.edu.hk/~comp2007/2016-17/.
